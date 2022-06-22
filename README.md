@@ -5,3 +5,4 @@ Este repositorio está dedicado al desarrollo de la página web para el evento [
 ## Colaboradores
 
 * [Oscar Santos](https://github.com/OscarSantos98)
+* [NikoMagafi Niko](https://github.com/NikoMagafi)
